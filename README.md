@@ -52,15 +52,6 @@ Installer에서 **C++를 사용한 데스크톱 개발**을 설치해야 합니�
 
 셰이더 파일은 빌드할 때 실행 파일 옆으로 자동 복사됩니다.
 
-#### CMake 빌드
-
-Visual Studio용 CMake가 설치되어 있다면 다음 명령으로도 빌드할 수 있습니다.
-
-```powershell
-cmake -S . -B build -A x64
-cmake --build build --config Release
-```
-
 ## 조작
 
 - `Z`: 위에서 보는 트랙 편집 화면
