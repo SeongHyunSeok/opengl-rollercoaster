@@ -1,0 +1,48 @@
+# Visual Studio user data
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+*.ipch
+
+# Build output
+build/
+bin/
+obj/
+lib/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+out/
+
+# MSBuild and compiler intermediates
+*.pdb
+*.ipdb
+*.iobj
+*.obj
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+*.command
+
+# CMake user-local files
+CMakeUserPresets.json
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runnable release package
+!/Release/
+/Release/*
+!/Release/롤러코스터.exe
+!/Release/vertex2.glsl
+!/Release/fragment2.glsl
