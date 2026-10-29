@@ -17,7 +17,7 @@ C++와 OpenGL로 제작한 인터랙티브 3D 롤러코스터 트랙 에디터�
 
 ## 기술 스택
 
-`C++20` · `OpenGL 3.3` · `GLSL 330` · `GLEW` · `freeglut` · `GLM`
+`C++` · `OpenGL 3.3` · `GLSL 330` · `GLEW` · `freeglut` · `GLM`
 
 ## 실행 방법
 
